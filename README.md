@@ -26,7 +26,6 @@ Honest port states. Evidence-based service detection. Zero fake features.
 [![Python](https://img.shields.io/badge/python-%3E%3D3.9-blue?style=flat-square&logo=python)](https://python.org)
 [![Platform](https://img.shields.io/badge/platform-Termux%20%C2%B7%20Android%20%C2%B7%20Linux-green?style=flat-square)](https://termux.dev)
 [![License](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](LICENSE)
-[![Tests](https://img.shields.io/badge/tests-66%20passed-brightgreen?style=flat-square)](#testing)
 [![Author](https://img.shields.io/badge/author-CLXV11-orange?style=flat-square&logo=github)](https://github.com/CLXV11)
 
 </div>
