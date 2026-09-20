@@ -27,7 +27,26 @@ Honest port states. Evidence-based service detection. Zero fake features.
 [![Platform](https://img.shields.io/badge/platform-Termux%20%C2%B7%20Android%20%C2%B7%20Linux-green?style=flat-square)](https://termux.dev)
 [![License](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](LICENSE)
 [![Author](https://img.shields.io/badge/author-CLXV11-orange?style=flat-square&logo=github)](https://github.com/CLXV11)
+![visitors](https://komarev.com/ghpvc/?username=CLXV11&repo=Hant-Port&color=cyan&style=flat-square)
 
+## Contents
+
+- [Why HANT PORT exists](#why-hant-port-exists)
+- [What it does](#what-it-does)
+- [Quick start](#quick-start-termux)
+- [Usage](#usage)
+- [Reading the output](#reading-the-output)
+- [Architecture](#architecture)
+- [Testing](#testing)
+- [Security & ethics](#security--ethics)
+- [FAQ](#faq)
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CLXV11/Hant-Port&type=Date)](https://star-history.com/#CLXV11/Hant-Port&Date)
+
+ 
 </div>
 
 ---
